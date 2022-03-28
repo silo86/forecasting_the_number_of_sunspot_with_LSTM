@@ -1,2 +1,2 @@
-# time_series_analysis_on_sunspot_dataset
+# time series analysis on sunspot dataset with bidirectional LSTM
 forecasting the number on sunspot based on historical data
